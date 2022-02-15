@@ -1,7 +1,8 @@
 {
   "headers": {
-    "/*: {
-    "X-Author":"albinaodincova509"
+    "/*": {
+    "X-Author":"albinaodincova509",
+      "Access-Control-Allow-Origin":"*"
   }
 }
 }
